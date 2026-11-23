@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Escribe un numero binario de cuatro entradas digitales, tenemos una salida a 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+Explain how to use your
 
 ## External hardware
 
